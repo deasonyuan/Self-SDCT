@@ -1,8 +1,6 @@
 function results = run_selfSDCT(seq, res_path, bSaveImage, parameters)
 
 cnn_params.nn_name = 'selfSDCT.mat';
-% cnn_params.nn_name = 'imagenet-vgg-m-2048.mat'; % Name of the network
-
 cnn_params.output_layer = [4];               % Which layers to use
 cnn_params.downsample_factor = [4];           % How much to downsample each output layer
 cnn_params.compressed_dim = [32];            % Compressed dimensionality of each output layer
