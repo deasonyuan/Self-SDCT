@@ -12,8 +12,8 @@ The training of a feature extraction network typically requires abundant manuall
 >>vl_compilenn('enableGpu', true)
 or
 >>vl_compilenn('enableGpu', true, ...
-'cudaRoot','C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0', ...
-'cudaMethod', 'nvcc') % for windows
+'cudaRoot','C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0', ...
+'cudaMethod', 'nvcc')
 ```
 Waiting the notification of success. More information about Matconvnet can be found at http://www.vlfeat.org/matconvnet/install/
 
