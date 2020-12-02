@@ -17,19 +17,17 @@ or
 ```
 Waiting the notification of success. More information about Matconvnet can be found at http://www.vlfeat.org/matconvnet/install/
 
-2. Run `demo.m` to test the demo sequences. 
+2. Run `demo.m` in './tracker' to test the demo sequences. 
 
 ## Others
 If you find the code helpful in your research, please consider citing:
 ```
-@article{liu2017deep,
-  title={Deep convolutional neural networks for thermal infrared object tracking},
-  author={Liu, Qiao and Lu, Xiaohuan and He, Zhenyu and Zhang, Chunkai and Chen, Wen-Sheng},
-  journal={Knowledge-Based Systems},
-  volume={134},
-  pages={189--198},
-  year={2017}
+@article{selfSDCT,
+  title={Self-supervised Deep Correlation Tracking},
+  author={Di Yuan, Xiaojun Chang, Po-Yao Huang Liu, Qiao and He, Zhenyu},
+  journal={IEEE Transactions on Image Processing},
+  year={2020}
 }
 ```
 Feedbacks and comments are welcome! 
-Feel free to contact us via liuqiao.hit@gmail.com or liuqiao@stu.hit.edu.cn
+Feel free to contact us via dyuanhit@gmail.com or yuandi@stu.hit.edu.cn
