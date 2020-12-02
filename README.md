@@ -1,4 +1,4 @@
-**Self-supervised Deep Correlation Tracking**
+## **Self-supervised Deep Correlation Tracking**
 
 ![self-SDCT overview figure](./pipeline.png)
 
