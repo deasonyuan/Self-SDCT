@@ -30,4 +30,4 @@ If you find the code helpful in your research, please consider citing:
 }
 ```
 Feedbacks and comments are welcome! 
-Feel free to contact us via dyuanhit@gmail.com or yuandi@stu.hit.edu.cn
+Feel free to contact us via dyuanhit@gmail.com
