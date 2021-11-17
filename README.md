@@ -27,9 +27,9 @@ If you find the code helpful in your research, please consider citing:
   title={Self-supervised Deep Correlation Tracking},
   author={Di Yuan, Xiaojun Chang, Po-Yao Huang Liu, Qiao and He, Zhenyu},
   journal={IEEE Transactions on Image Processing},
-  pages={1-10},
+  pages={976-985},
   doi={10.1109/TIP.2020.3037518},
-  year={2020}
+  year={2021}
 }
 ```
 Feedbacks and comments are welcome! 
