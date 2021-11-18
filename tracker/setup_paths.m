@@ -1,14 +1,10 @@
 function setup_paths()
 
 % Add the neccesary paths
-
 [pathstr, name, ext] = fileparts(mfilename('fullpath'));
 
 % Tracker implementation
 addpath(genpath([pathstr '/implementation/']));
-
-% Runfiles
-addpath([pathstr '/runfiles/']);
 
 % Utilities
 addpath([pathstr '/utils/']);
